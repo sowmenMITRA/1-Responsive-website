@@ -1,2 +1,2 @@
-# 1-Responsive-website
-PSD to html using bootstrap
+direct link of the website : 
+https://sowmenmitra.github.io/1-Responsive-website/
